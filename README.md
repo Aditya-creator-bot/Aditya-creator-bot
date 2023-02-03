@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Core concepts of C/C++.
 - 💬 Ask me about anything, I will surely help if possible.
 - 📫 How to reach me: ar9351227@gmail.com
-- ⚡ Fun fact: Non Metals are non lustre but Iodine is a non-metal having lustre.
+- ⚡ Fun fact: The first computer 🐾 virus was a creeper.
 - ▶️ Resume : <font color="red">Error!</font>
 
 ---
