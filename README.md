@@ -16,9 +16,11 @@
 - 💬 Ask me about anything, I will surely help if possible.
 - 📫 How to reach me: ar9351227@gmail.com
 - ⚡ Fun fact: The first computer 🐾 virus was a creeper.
-- ▶️ Resume : <font color="red">Error!</font>
+- ▶️ Resume : ¯\_(ツ)_/¯
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-creator-bot&layout=compact)](https://github.com/aditya-creator-bot/github-readme-stats)
 ---
 ![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=aditya-creator-bot&show_icons=true&theme=tokyonight)
+---
+![My Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-creator-bot&theme=github_dark)
