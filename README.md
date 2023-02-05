@@ -1,7 +1,7 @@
 # Hi there, I'm **Aditya Rana**
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-rana-ba9ab1233)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AS_83719315?t=7mBIKG533fqT7t3qockHvQ&s=09)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AdityaRa_na?t=7mBIKG533fqT7t3qockHvQ&s=09)
 [![instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/im.aditya7._?igshid=ZDdkNTZiNTM=)
 ![GitHub followers](https://img.shields.io/github/followers/Aditya-creator-bot?style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/Aditya-creator-bot?style=social)
