@@ -17,7 +17,9 @@
 - 📫 How to reach me: ar9351227@gmail.com
 - ⚡ Fun fact: The first computer 🐾 virus was a creeper.
 - ▶️ Resume : ¯\_(ツ)_/¯
-
+---
+Latest Repo:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aditya-creator-bot&repo=Clock)](https://github.com/aditya-creator-bot/Clock)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-creator-bot&layout=compact)](https://github.com/aditya-creator-bot/github-readme-stats)
 ---
